@@ -21,7 +21,7 @@
 2.1 python语言介绍 <br/>
 2.2 pandas介绍 <br/>
 2.3 numpy介绍 <br/>
-2.4 sklearning介绍 <br/>
+2.4 sklearn介绍 <br/>
 3 传统机器学习入门 <br/>
 3.1 SVM介绍 <br/>
 3.2 e1701介绍 <br/>
