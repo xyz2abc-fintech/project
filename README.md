@@ -37,7 +37,10 @@
 5 强化学习入门 <br/>
 5.1 强化学习介绍 <br/>
 5.2 DQN介绍 <br/>
-5.3 DDPG介绍 <br/>
+5.3 DDQN介绍 <br>
+5.4 Dueling DQN介绍 <br>
+5.5 DDPG介绍 <br/>
+5.6 PPO介绍 <br/>
 6 Tensorflow入门 <br/>
 6.1 Tensorflow介绍 <br/>
 6.2 tf.keras介绍 <br/>
@@ -59,5 +62,6 @@
 7.7 使用RNN实现单股票分析 <br/>
 7.8 使用DQN实现单股票分析 <br/>
 7.9 使用DDPG实现多股票组合分析 <br/>
+7.10 使用PPO实现多股票组合分析
 8 优秀文章解读 <br/>
 9 企业价值分析 <br/>
